@@ -17,6 +17,7 @@ public final class R {
         public static final int tweet_heading_bg=0x7f020003;
     }
     public static final class id {
+        public static final int charCountText=0x7f050006;
         public static final int closeBtn=0x7f050003;
         public static final int enter_pin_title=0x7f050001;
         public static final int headingText=0x7f050002;

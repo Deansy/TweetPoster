@@ -13,9 +13,8 @@
     </option>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TAB_CUSTOM_FILTER" value="CAMSH" />
     <option name="TAB_LOG_LEVEL" value="INFO" />
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="DEBUG" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="INFO" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9d01ea4-3174-44f6-8a19-68e3cd004776" name="Default" comment="" />
@@ -75,10 +74,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PostingActivity.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="PostingActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/cdeans/tweetposter/activities/PostingActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="97" selection-start="2031" selection-end="2031" vertical-scroll-proportion="0.0">
+            <state line="125" column="28" selection-start="4425" selection-end="4425" vertical-scroll-proportion="0.8484849">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,10 +85,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="posting.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="posting.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/posting.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="41" selection-start="476" selection-end="476" vertical-scroll-proportion="0.24242425">
+            <state line="51" column="0" selection-start="2185" selection-end="2185" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -129,8 +128,8 @@
         <option value="$PROJECT_DIR$/res/layout/post_split.xml" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/res/layout/post.xml" />
-        <option value="$PROJECT_DIR$/src/com/cdeans/tweetposter/activities/PostingActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/posting.xml" />
+        <option value="$PROJECT_DIR$/src/com/cdeans/tweetposter/activities/PostingActivity.java" />
       </list>
     </option>
   </component>
@@ -536,8 +535,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6704675" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295325" sideWeight="0.49264705" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29076397" sideWeight="0.49264705" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295325" sideWeight="0.49264705" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4754846" sideWeight="0.49264705" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Android Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295325" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -658,19 +657,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cdeans/tweetposter/activities/PostingActivity.java">
+    <entry file="file://$PROJECT_DIR$/res/layout/posting.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="97" selection-start="2031" selection-end="2031" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="51" column="0" selection-start="2185" selection-end="2185" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/posting.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/cdeans/tweetposter/activities/PostingActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="41" selection-start="476" selection-end="476" vertical-scroll-proportion="0.24242425">
-          <folding />
+        <state line="125" column="28" selection-start="4425" selection-end="4425" vertical-scroll-proportion="0.8484849">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

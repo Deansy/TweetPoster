@@ -46,7 +46,22 @@
                 android:paddingRight="20dip"
                 android:gravity="top"
                 android:lineSpacingExtra="25dip"
-                android:lines="5"/>
+                android:lines="4"
+                android:maxLines="4"
+                android:maxLength="140"/>
+
+    <TextView
+            android:id="@+id/charCountText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="140"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="20dip"
+            android:layout_marginTop="330dip"/>
+
+
     </RelativeLayout>
 
 
